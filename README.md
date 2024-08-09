@@ -1,7 +1,7 @@
-# Flight Management System - Project Phase 4
+# Flight Management System
 
 ## Overview
-This project is the final phase of the CS4.301 - Data and Applications course (Monsoon '23). The objective is to implement a Flight Management System using MySQL for database creation and Python3 for building a command line interface. The project involves creating the database based on previously modeled relational schemas and implementing functional requirements through SQL queries and a Python script.
+The objective is implementing a Flight Management System using MySQL for database creation and Python3 for building a command line interface. The project involves creating the database based on previously modelled relational schemas and implementing functional requirements through SQL queries and a Python script.
 
 ## Project Structure
 The project is divided into two main parts:
@@ -13,5 +13,5 @@ The project is divided into two main parts:
 
 2. **Performing Queries on the Database:**
    - Implement functional requirements mentioned in the Phase 1 submission.
-   - Include at least 2 queries for each kind of operation (insertion, update, selection, projection, etc.) for both modifications and retrievals.
+   - Include at least 2 queries for each operation (insertion, update, selection, projection, etc.) for both modifications and retrievals.
    - Include at least 2 analysis queries involving the JOIN clause from Phase 1.
